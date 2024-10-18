@@ -1,4 +1,4 @@
-# [Your Name] - Database Developer
+# Bilal Ahmed Satti - Database Developer
 
 Welcome to my Database Developer portfolio! I am a results-driven professional with over [X years] of experience in designing, developing, and optimizing database solutions across various industries. I specialize in database management, performance tuning, ETL processes, and data visualization. Below, you can explore my projects, skills, and contributions to database development.
 
